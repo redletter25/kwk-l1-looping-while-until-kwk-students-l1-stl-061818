@@ -23,6 +23,6 @@ magic
 until counter = 6
  puts "Wingardium Leviosa"
 
-
+counter = counter - 1
 
 
