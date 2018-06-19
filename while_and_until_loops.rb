@@ -1,3 +1,4 @@
+#while loop
 def magic
   counter = 0
   
@@ -14,8 +15,8 @@ magic
 
 
 
-
-
+#Until Loop
+def  
 
 
 
