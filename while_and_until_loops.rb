@@ -18,10 +18,10 @@ magic
 #Until Loop
  def wand
    counter = 10
+  
 
-
-
-
+until counter = 6
+ puts "Wingardium Leviosa"
 
 
 
