@@ -17,7 +17,7 @@ magic
 
 #Until Loop
  def wand
-   
+   counter = 6
 
 
 
