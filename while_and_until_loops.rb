@@ -6,4 +6,8 @@ while counter < 10
 
 counter = counter + 1 
   puts "#{counter} movers completed"
-  
+end 
+
+
+end 
+magic 
