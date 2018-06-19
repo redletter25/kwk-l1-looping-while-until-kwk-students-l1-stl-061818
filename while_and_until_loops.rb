@@ -16,7 +16,8 @@ magic
 
 
 #Until Loop
-  
+ def wand
+   
 
 
 
