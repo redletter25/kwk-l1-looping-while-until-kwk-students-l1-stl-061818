@@ -25,4 +25,12 @@ until counter = 6
 
 counter = counter - 1
 
+end
+
+
+end 
+
+wand
+
+
 
