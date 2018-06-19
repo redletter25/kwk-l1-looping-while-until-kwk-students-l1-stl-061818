@@ -5,4 +5,5 @@ while counter < 10
   puts "Wingardium Leviosa"
 
 counter = counter + 1 
-  puts "#{counter} "
+  puts "#{counter} movers completed"
+  
